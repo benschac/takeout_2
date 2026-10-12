@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.one/
+.orez/
+.orez-*/
+.tamagui/
+.contrast/
+.wrangler/
+app/routes.d.ts
+.env*
+scripts/tmp/
+ios/
+android/
+.DS_Store
+.remote-out/
+.remote-deliveries/
